@@ -111,3 +111,9 @@ body{
     height: 40%;
     margin-bottom: 1rem;
 }
+
+hr{
+    color: var(--color-primary);
+    margin-left:37.5%;
+    width: 25%;
+}
